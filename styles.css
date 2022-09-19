@@ -1,0 +1,21 @@
+h1 {
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: rgb(44, 0, 59)
+}
+
+h4 {
+  margin-bottom: 0;
+}
+
+ul,
+ol {
+  margin-top: 0;
+  font-size: 28px;
+  color: rgb(58, 55, 145)
+}
+
+.copyright {
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 40px;
+  font-style: italic;
+}
